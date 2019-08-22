@@ -2,7 +2,7 @@
 
 
 ```
-reshape2, dplyr, and data.table
+reshape2
 ```
 
 ## CodeBook Description
